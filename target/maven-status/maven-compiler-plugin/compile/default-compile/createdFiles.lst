@@ -1,0 +1,6 @@
+com\game\ScratchGame.class
+com\game\ValueOperationPair.class
+com\game\Cell.class
+com\game\ScratchGame$1.class
+com\game\Cell$Operation.class
+com\game\OutputDTO.class
